@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot for react component 1`] = `
+<DocumentFragment>
+  <div>
+    <h2>
+       Jest Testing 
+    </h2>
+    <button>
+       Updata Data 
+    </button>
+    <h3>
+        
+    </h3>
+  </div>
+</DocumentFragment>
+`;
